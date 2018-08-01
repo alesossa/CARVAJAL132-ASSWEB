@@ -9,4 +9,4 @@
 **Reto a solucionar :**
 
 	Como podemos generar eventos deportivos comunitarios en los espacios urbanos de la localidad.
-
+![wireframe](C:\Users\johsalsa\Documents\johanrepogit\CARVAJAL132-ASSWEB\Wireframe)
