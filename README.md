@@ -21,3 +21,4 @@ La expectativa de los habitantes se basa en poder participar constantemente en a
 Generar una aplicación que informe sobre los eventos deportivos en la localidad de los mártires, contara con un módulo de Consulta, reservas y pagos para los diferentes escenarios deportivos, un módulo de información de los servicios que presta cada escenario deportivo, un módulo de PQRS para identificar y evaluar los diferentes servicios y escenarios deportivos.
 
 ![alt text](https://https://github.com/TalentoBogotaFedesoft/CARVAJAL132-ASSWEB/blob/master/Wireframe/Logo.png)
+https://github.com/TalentoBogotaFedesoft/CARVAJAL132-ASSWEB/blob/master/Wireframe/Logo.png?raw=true
